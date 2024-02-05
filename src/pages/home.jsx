@@ -1,9 +1,10 @@
 import React from "react";
+import "./home.css"
  
 function Home () {
     return (
         <div>
-            <h1>Welcome to Hand-Made Games!</h1>
+            <h1 id="welcome">Welcome to Hand-Made Games!</h1>
         </div>
     );
 };
